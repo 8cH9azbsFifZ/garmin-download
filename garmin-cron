@@ -1,0 +1,2 @@
+#* * * * * . /root/project_env.sh ; /usr/local/bin/garpy download --username $USERNAME --password $PASSWORD /usr/src/app/output/ >> /var/log/cron.log 2>&1
+3 */6 * * *  . /root/project_env.sh ; /usr/local/bin/garpy download --username $USERNAME --password $PASSWORD /usr/src/app/output/ >> /var/log/cron.log 2>&1
