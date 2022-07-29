@@ -1,4 +1,4 @@
-FROM asdlfkj31h/garpy:0.1
+FROM ghcr.io/8ch9azbsfifz/docker-garpy:latest
 
 MAINTAINER Gerolf Ziegenhain "gerolf.ziegenhain@gmail.com"
 
